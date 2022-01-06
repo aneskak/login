@@ -6,6 +6,11 @@ Tela de login usando glassmorphism e uma imagem no background.
 
 <img src="./img/print_login.PNG" alt="Print de tela na web">
 
+## 🖼 Screenshot da tela mobile
+
+<img src="./img/print_login_mobile.PNG" alt="Print de tela no mobile">
+
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
