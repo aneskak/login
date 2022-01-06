@@ -4,7 +4,7 @@ Tela de login usando glassmorphism e uma imagem no background.
 
 ## 🖼 Screenshot da tela web
 
-<img src="./img/print_login.png" alt="Print de tela na web">
+<img src="./img/print_login.PNG" alt="Print de tela na web">
 
 ## 🛠 Tecnologias
 
